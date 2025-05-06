@@ -1,1 +1,4 @@
-In this repository, I've attempted to solve the assignment questions in the most optimal way I could. If you have suggestions for improving any of the solutions, feel free to create an issue in the repo—I'd be happy to connect and discuss.
+**Harkirat Cohort 2.0 Assignment Solutions**
+
+In this repository, I've attempted to solve the assignment questions in the most optimal way I could. 
+If you have suggestions for improving any of the solutions, feel free to create an issue in the repo—I'd be happy to connect and discuss.
