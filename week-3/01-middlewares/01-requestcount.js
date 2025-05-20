@@ -22,4 +22,8 @@ app.get('/requestCount', function(req, res) {
   res.status(200).json({ requestCount });
 });
 
+app.listen(4000, () => {
+  console.log("https://localhost:4000");
+});
+
 module.exports = app;
